@@ -42,11 +42,11 @@ Reponun bir kopyasını klonladıktan sonra,
    flutter run
    ```
 ---
-📌 Notlar:
+📌 Notlar: 
 Uygulama bazı üçüncü parti API'leri kullanmaktadır. API anahtarlarınızı lib/config.dart gibi bir dosyada saklamayı unutmayın.
 Bu proje kişisel portföy amaçlıdır ve açık kaynak olarak sunulmaktadır.
 
-🤝 Katkı Sağlayın
+🤝 Katkı Sağlayın: 
 Pull request'lere ve issue'lara her zaman açığız. Forklayın, geliştirin, katkıda bulunun!
 
 ⭐ Projeyi beğendiyseniz bir yıldızınıza talibiz!
